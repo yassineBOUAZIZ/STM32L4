@@ -1,9 +1,4 @@
-/*
- * GP_timer.c
- *
- *  Created on: August 05, 2024
- *      Author: BAZINFO
- */
+
 
 #include <stm32l4xx.h>
 
